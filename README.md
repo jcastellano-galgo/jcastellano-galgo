@@ -2,23 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <a href="http://www.linkedin.com/in/juan-jose-sanchez-castellanos">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="https://github.com/juanjo82182">
-        <img src="https://img.shields.io/github/followers/juanjo82182?label=follow&style=social" height="22" title="Follow me" alt="Follow" />
-      </a>
-      <br/><br/>
-      ¡Hola! Desarrollador enfocado en crear soluciones eficientes y escalables.
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYycTN5ZXByZjBiaXlyMmRsYjIybmpmNmhjeHBvZWZ4eHlhYnVzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="180px" alt="Coding Cat" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="220" src="https://media.tenor.com/2ro8Pz92A24AAAAC/cat-holding-laptop-cat-typing.gif" alt="Cat Coding" />
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/juan-jose-sanchez-castellanos)
+[<img src="https://img.shields.io/github/followers/juanjo82182?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanjo82182)
+
+<br/><br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -57,18 +46,18 @@
 [![selenium](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+## Github Stats 📊
 
 <p align="center">
   <a href="https://github.com/juanjo82182">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo82182&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="200" alt="Top Languages" />
+    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=juanjo82182&show_icons=true&theme=dark&langs_count=8&count_private=true&layout=compact" alt="Top Languages" />
   </a>
   <a href="https://github.com/juanjo82182">
-    <img src="https://github-readme-stats.vercel.app/api?username=juanjo82182&count_private=true&hide=stars&show_icons=true&theme=dark" alt="Juan Jose's GitHub Stats" height="200" />
+    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=juanjo82182&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <sub>Visitor count</sub><br>
-  <img src="https://komarev.com/ghpvc/?username=juanjo82182&color=blueviolet&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=juanjo82182&color=7B68EE&style=flat-square" alt="Visitor Count" />
 </p>
