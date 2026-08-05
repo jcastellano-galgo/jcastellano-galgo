@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img align="right" width="220" src="https://media.tenor.com/2ro8Pz92A24AAAAC/cat-holding-laptop-cat-typing.gif" alt="Cat Coding" />
+<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYycTN5ZXByZjBiaXlyMmRsYjIybmpmNmhjeHBvZWZ4eHlhYnVzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" alt="Cat Coding" />
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/juan-jose-sanchez-castellanos)
 [<img src="https://img.shields.io/github/followers/juanjo82182?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanjo82182)
@@ -50,10 +50,10 @@
 
 <p align="center">
   <a href="https://github.com/juanjo82182">
-    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=juanjo82182&show_icons=true&theme=dark&langs_count=8&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo82182&show_icons=true&theme=dark&langs_count=8&count_private=true&layout=compact" alt="Top Languages" />
   </a>
   <a href="https://github.com/juanjo82182">
-    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=juanjo82182&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=juanjo82182&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
