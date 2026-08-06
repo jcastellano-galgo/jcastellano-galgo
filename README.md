@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<img align="right" width="260" hspace="60" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYycTN5ZXByZjBiaXlyMmRsYjIybmpmNmhjeHBvZWZ4eHlhYnVzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" alt="Cat Coding" />
+<img align="right" width="260" hspace="60" src="https://i.gifer.com/3R2j.gif" alt="Cat Coding" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -16,12 +16,9 @@
 [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![c](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![cpp](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![html](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![js](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![jquery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
 [![nestjs](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![php](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
