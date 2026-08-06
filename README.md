@@ -49,11 +49,11 @@
 ## Github Stats 📊
 
 <p align="center">
-  <a href="https://github.com/juanjo82182">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo82182&show_icons=true&theme=dark&langs_count=8&count_private=true&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/jcastellano-galgo">
+    |<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
   </a>
-  <a href="https://github.com/juanjo82182">
-    <img src="https://github-readme-stats.vercel.app/api?username=juanjo82182&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/jcastellano-galgo">
+    <img src="https://github-readme-stats.vercel.app/api?username=jcastellano-galgo&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
