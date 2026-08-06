@@ -2,10 +2,19 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYycTN5ZXByZjBiaXlyMmRsYjIybmpmNmhjeHBvZWZ4eHlhYnVzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" alt="Cat Coding" />
+<table>
+<tr>
+<td valign="middle" width="65%">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/juan-jose-sanchez-castellanos)
 [<img src="https://img.shields.io/github/followers/juanjo82182?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanjo82182)
+
+</td>
+<td width="35%">
+<img width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYycTN5ZXByZjBiaXlyMmRsYjIybmpmNmhjeHBvZWZ4eHlhYnVzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" alt="Cat Coding" />
+</td>
+</tr>
+</table>
 
 <br clear="both"/>
 
@@ -50,19 +59,19 @@
 ## Github Stats 📊
 
 <p align="center">
-  <a href="https://github.com/jcastellano-galgo">
-    <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" width="49%" />
-    <img src="https://next.ossinsight.io/widgets/official/compose-last28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" width="49%" />
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api?username=jcastellano-galgo&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jcastellano-galgo&theme=midnight-purple&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jcastellano-galgo&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/jcastellano-galgo">
-    <img src="https://github-readme-stats.vercel.app/api?username=jcastellano-galgo&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
+---
 
 <p align="center">
-  <sub>Visitor count</sub><br>
-  <img src="https://komarev.com/ghpvc/?username=juanjo82182&color=7B68EE&style=flat-square" alt="Visitor Count" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=jcastellano-galgo&icon=0&color=0" />
+  </a>
 </p>
