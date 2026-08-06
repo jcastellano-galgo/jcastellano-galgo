@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img align="right" width="180" style="margin-right: 80px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYycTN5ZXByZjBiaXlyMmRsYjIybmpmNmhjeHBvZWZ4eHlhYnVzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" alt="Cat Coding" />
+<img align="right" width="200" hspace="60" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYycTN5ZXByZjBiaXlyMmRsYjIybmpmNmhjeHBvZWZ4eHlhYnVzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" alt="Cat Coding" />
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/juan-jose-sanchez-castellanos)
 [<img src="https://img.shields.io/github/followers/juanjo82182?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanjo82182)
