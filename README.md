@@ -2,15 +2,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td valign="middle" width="65%">
+<td valign="middle">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/juan-jose-sanchez-castellanos)
 [<img src="https://img.shields.io/github/followers/juanjo82182?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanjo82182)
 
 </td>
-<td width="35%">
+<td align="right" valign="middle" width="240">
 <img width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYycTN5ZXByZjBiaXlyMmRsYjIybmpmNmhjeHBvZWZ4eHlhYnVzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" alt="Cat Coding" />
 </td>
 </tr>
